@@ -1,4 +1,3 @@
-hello
 package upbeatProject;
 
 import java.util.ArrayList;
